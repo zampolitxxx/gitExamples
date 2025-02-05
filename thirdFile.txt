@@ -1,2 +1,11 @@
 first line
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+3 commit in dev
+4 commit in dev
+=======
+
+>>>>>>> main
+>>>>>>> dev
